@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="images/terminal.gif"  height="300">
 <!--
 **SofieneJOUINI/SofieneJOUINI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
