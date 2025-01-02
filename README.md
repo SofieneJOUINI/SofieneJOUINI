@@ -7,7 +7,7 @@
     </td>
     <td align="right">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=ffffff&width=800&lines=Hello%2C+it's+Sofiene+Jouini;A+Software+Engineer;I'm+currently+working+on+Adad+(Reconcilliation+Platform)" 
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=527fa3&width=800&lines=Hello%2C+it's+Sofiene+Jouini;A+Software+Engineer;I'm+currently+working+on+Adad+(Reconcilliation+Platform)" 
         alt="Typing SVG">
       </a>
     </td>
