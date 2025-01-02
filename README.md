@@ -7,10 +7,11 @@
   <img src="assets/terminal.gif">
 </div>
 
-### Main skills
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="30px"> Main skills </h2>
+
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,py,github,git,mongodb,postgres,redis,java,spring,js,ts,nestjs,jest,angular,html,css,aws,docker)](https://skillicons.dev)
 
-### 🤝🏻 Connect with Me 
+<h2> 🤝🏻 Connect with Me </h2>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/sofiene-jouini-934a50113/" target="_blank"><img src="assets/linkedin.gif" width="50" /></a>
 &nbsp; <a href="mailto:jouinisofiene@gmail.com" target="_blank"><img src="assets/gmail-logo.gif"  width="50" /></a>
