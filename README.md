@@ -10,6 +10,12 @@
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,py,github,git,mongodb,postgres,redis,java,spring,js,ts,nestjs,jest,angular,html,css,aws,docker)](https://skillicons.dev)
 
+### 🤝🏻 Connect with Me 
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/sofiene-jouini-934a50113/" target="_blank"><img src="assets/linkedin.gif" width="50" /></a>
+&nbsp; <a href="mailto:jouinisofiene@gmail.com" target="_blank"><img src="assets/gmail-logo.gif"  width="50" /></a>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=527fa3&height=120&section=footer" alt="footer"/> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
