@@ -1,8 +1,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=527fa3&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=527fa3&width=800&lines=Hello%2C+it's+Sofiene+Jouini;A+Software+Engineer;I'm+currently+working+on+Adad+(Reconcilliation+Platform)"/>
-</a>
+<table style="width: 100%;">
+  <tr>
+    <td align="left" style="width: 48px">
+      <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48" alt="Wave">
+    </td>
+    <td align="right">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=ffffff&width=800&lines=Hello%2C+it's+Sofiene+Jouini;A+Software+Engineer;I'm+currently+working+on+Adad+(Reconcilliation+Platform)" 
+        alt="Typing SVG">
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div height="300">
   <img src="assets/terminal.gif">
 </div>
