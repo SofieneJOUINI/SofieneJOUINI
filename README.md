@@ -4,11 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=597d77&width=800&lines=Hello%2C+it's+Sofiene+Jouini;A+Software+Engineer;I'm+currently+working+on+Adad+(Reconcilliation+Platform)"/>
 </a>
 <div height="300">
-  <img src="images/terminal.gif">
+  <img src="assets/terminal.gif">
 </div>
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=linux,vim,bash,py,github,git,mongodb,postgres,redis,java,spring,js,ts,nestjs,jest,cypress,angular,html,css,aws,docker)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer"/> 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
